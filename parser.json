@@ -1,7 +1,7 @@
 {
   "lang": "udev",
-  "location": null,
-  "parser_version": "2fcb563a4d56a6b8e8c129252325fc6335e4acbf",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-udev",
-  "semver": false
+  "semver": false,
+  "parser_version": "2fcb563a4d56a6b8e8c129252325fc6335e4acbf",
+  "location": null
 }
